@@ -5,7 +5,7 @@ The goal is to curate wildfire smoke datasets to enable open sharing and ease of
 #### HPWREN Cameras
 
 AI For Mankind downloaded the public domain HPWREN Cameras images and labeled these images for bounding box object detection.
-1. [HPWREN Cameras: Smoke/No Smoke datasets](https://drive.google.com/file/d/1-iGDotd4mFSJ1gF4t2yjLx6q4DXoX1Fr/view?usp=sharing) We separated the images into smoke and no smoke categories for anyone who is interested in building a smoke classifier.
+1. [HPWREN Cameras: Smoke/No Smoke datasets](https://tinyurl.com/roo8tas) We separated the images into smoke and no smoke categories for anyone who is interested in building a smoke classifier.
 2. [HPWREN Cameras: Bounding Box Annotated Smoke Dataset (Pascal VOC annotation format)](https://drive.google.com/file/d/1sEB77bfp2yMkgsSW9703vwDHol_cK6D5/view?usp=sharing) We annotated these images using bounding box for smoke detection.
 
 Please provide attribution to HPWREN when using these datasets. 
