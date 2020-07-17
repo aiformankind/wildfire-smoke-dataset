@@ -18,7 +18,19 @@ Stay tuned for the upcoming version 2 of bounding box annotated smoke dataset cr
 We created a few promising wildfire smoke detection models using the version 1.0 of bounding box annotated wildfire smoke images (744 images). Learn more about our [wildfire smoke detection research](https://aiformankind.org/wildfire-smoke-detection-research/).
 
 #### Detection Results
-See our wildfire smoke detector in action: https://www.youtube.com/playlist?list=PLB-XesK9mcaCCvSbogU9SFBlp1LEAjgT2
+Our AI For Mankind's wildfire smoke detector aka "The Super Duper" built using this annotated dataset shows very promising results.
+
+   - [20191006: Detected smoke ~6 mins after fire ignition (HPWREN ml w mobo c)](https://youtu.be/wt1sQyRjoCI)
+   - [20191006: Detected smoke ~7 mins after fire ignition (HPWREN lp n mobo c)](https://youtu.be/dViR_XGQ8Oo)
+   - [20191006: Detected smoke ~10 mins after fire ignition (HPWREN lp s mobo c)](https://youtu.be/XVvZVnxHv4A)
+   - [20191006: Detected smoke ~3 mins after fire ignition (HPWREN pi s mobo c)](https://youtu.be/e9T_8coM20M)
+   - [20191007: Detected smoke ~10 mins after fire ignition (HPWREN sm s mobo c)](https://youtu.be/LqAxrY-Xa4w)
+   - [20200206: Detected smoke ~4 mins after fire ignition (HPWREN ml s mobo c)](https://youtu.be/Y3tal1-nk1Y)
+   - [20200306: Detected smoke ~3 mins after fire ignition (HPWREN mlo n mobo c)](https://youtu.be/X_QvjA1-Nb4)
+   - [20200205: Detected smoke ~13 mins after fire ignition (HPWREN hp w mobo c)](https://youtu.be/CcbXdcMEQvs)
+   - [20200615: Detected smoke ~4 mins after fire ignition (HPWREN rm e mobo c)](https://youtu.be/uPSkxGjUqRk)
+   
+See our wildfire smoke detector in action: https://www.youtube.com/playlist?list=PLB-XesK9mcaCCvSbogU9SFBlp1LEAjgT2   
 
 #### Become Volunteer 
 AI For Mankind's volunteers will continue to annotate these HPWREN images and make them available here. Please feel free to reach out to us ai.for.mankind@gmail.com if you would like to volunteer your time to help with labeling. Learn more about AI For Mankind [here](https://www.meetup.com/AI-for-Mankind/)
