@@ -18,7 +18,50 @@ Stay tuned for the upcoming version 2 of bounding box annotated smoke dataset cr
 We created a few promising wildfire smoke detection models using the version 1.0 of bounding box annotated wildfire smoke images (744 images). Learn more about our [wildfire smoke detection research](https://aiformankind.org/wildfire-smoke-detection-research/).
 
 #### Detection Results
-Our AI For Mankind's wildfire smoke detector aka "The Super Duper" built using this annotated dataset shows very promising results.
+AI For Mankind's wildfire smoke detector aka "The Super Duper" built using this annotated dataset shows very promising results.
+
+1. For 2020-02-05 fire captured by HPWREN camera hp-w-mobo-c, our detector detected the smoke *13 minutes* after fire ignition.
+
+    <br/>
+    <a href="https://youtu.be/CcbXdcMEQvs"><img src="images/smoke_detector_in_action_13mins_detected.png" width="500" ></a>
+    <br clear="right"/>
+
+ 2. For 2020-03-06 fire captured by HPWREN camera mlo-n-mobo-c, our detector detected the smoke *3 minutes* after fire ignition. See video below.
+
+    <br/>
+    <a href="https://youtu.be/X_QvjA1-Nb4"><img src="images/smoke_detector_in_action_3mins_detected.png" width="500" ></a>
+
+    <br clear="right"/>
+
+    <br/>
+    
+ 3. For 2019-10-06 fire captured by HPWREN camera pi-s-mobo-c, our detector detected the smoke *3 minutes* after fire ignition. See video below.
+
+    <br/>
+    <a href="https://youtu.be/e9T_8coM20M"><img src="images/smoke_detector_in_action_3mins_detected_20191006.png" width="500" ></a>
+
+    <br clear="right"/>
+
+    <br/>
+    
+ 4. For 2019-10-06 fire captured by HPWREN camera lp-s-mobo-c, our detector detected the smoke *10 minutes* after fire ignition. See video below.
+
+    <br/>
+    <a href="https://youtu.be/XVvZVnxHv4A"><img src="images/smoke_detector_in_action_10mins_detected_20191006.png" width="500"></a>
+
+    <br clear="right"/>
+
+    <br/>   
+ 
+ 5. For 2020-05-21 fire captured by HPWREN camera VEGMGMT ml-w-mobo-c, our detector detected the smoke *16 minutes* after fire ignition.
+
+    <br/>
+
+    <img src="images/20200521_VEGMGMT_ml-w-mobo-c_1590081617_+00960_smoke_detected.png" alt="Wildfire Smoke Detector in Action" width="450"/>
+    <br clear="right"/>
+
+
+You can checkout more results below:
 
    - [20191006: Detected smoke ~6 mins after fire ignition (HPWREN ml w mobo c)](https://youtu.be/wt1sQyRjoCI)
    - [20191006: Detected smoke ~7 mins after fire ignition (HPWREN lp n mobo c)](https://youtu.be/dViR_XGQ8Oo)
