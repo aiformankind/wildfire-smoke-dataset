@@ -8,7 +8,8 @@ The goal is to curate wildfire smoke datasets to enable open sharing and ease of
 
 1. [Bounding Box Annotated Wildfire Smoke Dataset (Pascal VOC annotation format) Version 1.0](https://drive.google.com/file/d/1sEB77bfp2yMkgsSW9703vwDHol_cK6D5/view?usp=sharing) for smoke detection. Thank you our founder [Wei Shung Chung](https://www.linkedin.com/in/wei-shung-chung-01326a7/) in creating this first set of bounding boxes. In total, 744 bounding box annotated images are created.
 
-**Please give credits to AI For Mankind and HPWREN when using these bounding box annotated smoke datasets.** 
+**Please give credits to AI For Mankind and HPWREN when using these bounding box annotated smoke datasets. The bounding box annotated smoke datasets are licensed under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public License](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode).** 
+
 Note: [Learn more about HPWREN](http://hpwren.ucsd.edu/)
 
 For classification, you can checkout this dataset [Wildfire Smoke vs No Smoke datasets](https://tinyurl.com/roo8tas). We separated the images into smoke and no smoke categories for anyone who is interested in building a smoke classifier.
