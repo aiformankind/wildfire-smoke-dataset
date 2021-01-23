@@ -16,12 +16,18 @@ Note: [Learn more about HPWREN](http://hpwren.ucsd.edu/)
 
 For classification, you can checkout this dataset [Wildfire Smoke vs No Smoke datasets](https://tinyurl.com/roo8tas). We separated the images into smoke and no smoke categories for anyone who is interested in building a smoke classifier.
 
-Stay tuned for the upcoming version 2 of bounding box annotated smoke dataset created with the help of AI For Mankind's volunteers in collaboration with [HPWREN](http://hpwren.ucsd.edu/). We will release the dataset after the [Lets Stop Wildfires Hackathon 2.0](https://aiformankind.org/lets-stop-wildfires-hackathon-2.0/)
 
 We created a few promising wildfire smoke detection models using the version 1.0 of bounding box annotated wildfire smoke images (744 images). Learn more about our [wildfire smoke detection research](https://aiformankind.org/wildfire-smoke-detection-research/).
 
+#### Submit your Model
+We welcome you to train new wildfire detection model and submit your model to us for benchmarking/evaluation. If your model beat our benchmark, we will deploy your model to production for further evaluation.
+
+One of our production models is the winning model from last year wildfire detection hackathon 2.0.
+
 #### Detection Results
 AI For Mankind's wildfire smoke detector aka "The Super Duper" built using this annotated dataset shows very promising results.
+
+Checkout our <a href="https://youtube.com/playlist?list=PLB-XesK9mcaCCvSbogU9SFBlp1LEAjgT2">detections for fire season 2020</a>
 
 1. For 2020-02-05 fire captured by HPWREN camera hp-w-mobo-c, our detector detected the smoke *13 minutes* after fire ignition.
 
