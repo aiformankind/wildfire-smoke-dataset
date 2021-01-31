@@ -14,10 +14,18 @@ The goal is to curate wildfire smoke datasets to enable open sharing and ease of
 
 Note: [Learn more about HPWREN](http://hpwren.ucsd.edu/)
 
+#### Donate to Support Us
+[Donate](https://donorbox.org/support-the-evaluation-and-deployment-of-wildfire-smoke-detector) to support our efforts. Your donation is tax deductible. AI For Mankind is a registered 503(c)(3) nonprofit organization.
+
 For classification, you can checkout this dataset [Wildfire Smoke vs No Smoke datasets](https://tinyurl.com/roo8tas). We separated the images into smoke and no smoke categories for anyone who is interested in building a smoke classifier.
 
 
 We created a few promising wildfire smoke detection models using the version 1.0 of bounding box annotated wildfire smoke images (744 images). Learn more about our [wildfire smoke detection research](https://aiformankind.org/wildfire-smoke-detection-research/).
+
+#### Clouds Dataset
+Clouds/fog have similar visual appearance as wildfire smoke. Detection model might confuse cloud/fog with smoke. We share the following cloud dataset we curated from HPWREN cameras. 
+
+1. [Cloud dataset](https://drive.google.com/file/d/1mUgVvnctpdZ8VZgihIDMoeUgkhsx1iAH/view?usp=sharing)
 
 #### Submit your Model
 We welcome you to train new wildfire detection model and submit your model to us for benchmarking/evaluation. If your model beat our benchmark, we will deploy your model to production for further evaluation.
